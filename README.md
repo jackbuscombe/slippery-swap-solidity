@@ -1,1 +1,1 @@
-Contracts FOr Slippery Swap
+Contracts For Slippery Swap
